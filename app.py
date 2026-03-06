@@ -1,14 +1,3 @@
-"""
-Billi AI — Hugging Face Spaces App
-====================================
-Chat UI for Billi AI using Gradio.
-
-Make sure these files are in the same folder:
-  - billiai.py
-  - billiai.pt
-  - billiai_tokenizer.pkl
-"""
-
 import torch
 import pickle
 import gradio as gr
