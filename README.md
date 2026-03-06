@@ -102,3 +102,5 @@ this toook wayy to looong i trained it on a cpuu
 ## License
 
 MIT License — free to use, modify and share.
+
+uff iam sooo professional
