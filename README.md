@@ -69,6 +69,8 @@ python app.py
 | Tokenizer | Character-level |
 
 this looks soo cool ahhaha
+
+
 ---
 
 ## Training Config
