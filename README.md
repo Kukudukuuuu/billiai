@@ -6,12 +6,12 @@ A tiny language model built completely from scratch using PyTorch. No pre-traine
 
 ## What is Billi AI?
 
-Billi AI is a "GPT-style" transformer language model trained on conversation data. It was built from the ground up to understand how large language models actually work under the hood.
+Billi AI is a "GPT-style" transformer language model trained on conversation data. It was built to say hi
 
 - **~800K parameters**
 - Character-level tokenizer
 - 4-layer transformer with multi-head self-attention
-- Trained on conversational data
+- Trained on conversational data (only knows like 10 conversations)
 
 ---
 
@@ -22,7 +22,7 @@ billiai.py              ← model architecture + training + generation
 app.py                  ← Gradio web UI
 billiai.pt              ← trained model weights
 billiai_tokenizer.pkl   ← tokenizer
-requirements.txt        ← dependencies
+requirements.txt        ← dependencies 
 ```
 
 ---
@@ -68,6 +68,7 @@ python app.py
 | Context length | 128 tokens |
 | Tokenizer | Character-level |
 
+this looks soo cool ahhaha
 ---
 
 ## Training Config
