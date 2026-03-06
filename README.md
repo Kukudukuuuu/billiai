@@ -1,12 +1,12 @@
 # 🤖 Billi AI
 
-A tiny language model built completely from scratch using PyTorch. No pre-trained weights, no shortcuts — just pure Python and math.
+A tiny language model built completely from scratch using PyTorch. No pre-trained weights, no shortcuts — just pure Python and no math i hate math
 
 ---
 
 ## What is Billi AI?
 
-Billi AI is a GPT-style transformer language model trained on conversation data. It was built from the ground up to understand how large language models actually work under the hood.
+Billi AI is a "GPT-style" transformer language model trained on conversation data. It was built from the ground up to understand how large language models actually work under the hood.
 
 - **~800K parameters**
 - Character-level tokenizer
@@ -79,13 +79,15 @@ python app.py
 | Learning rate | 3e-4 |
 | Optimizer | AdamW |
 
+this toook wayy to looong i trained it on a cpuu
+
 ---
 
 ## Requirements
 
 - Python 3.8+
 - PyTorch
-- Gradio (for web UI only)
+- Gradio (for web UI only) kinda cool ngl
 
 ---
 
