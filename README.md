@@ -10,7 +10,7 @@ Billi AI is a "GPT-style" transformer language model trained on conversation dat
 
 - **~800K parameters**
 - Character-level tokenizer
-- 4-layer transformer with multi-head self-attention
+- 4-layer transformer with multi-head self-attention (idk abt this this guy has no attention)
 - Trained on conversational data (only knows like 10 conversations)
 
 ---
@@ -89,6 +89,7 @@ this toook wayy to looong i trained it on a cpuu
 - Python 3.8+
 - PyTorch
 - Gradio (for web UI only) kinda cool ngl
+- Potato PC
 
 ---
 
