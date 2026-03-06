@@ -58,7 +58,6 @@ demo = gr.ChatInterface(
     title="🤖 Billi AI",
     description="A tiny language model built from scratch. Say hi!",
     examples=["hi", "what is your name?", "tell me a joke", "how are you?"],
-    theme=gr.themes.Soft(),
 )
 
 if __name__ == "__main__":
