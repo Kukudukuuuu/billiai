@@ -1,6 +1,6 @@
 # 🤖 Billi AI
 
-A tini tiny language model built completely from scratch using PyTorch. no shortcuts (too many shortcuts) — just pure Python and no math i hate math
+A tini tiny language model built completely from scratch using PyTorch. no shortcuts (too many shortcuts aghmm claude..) — just pure Python and no math i hate math
 
 ---
 
