@@ -1,22 +1,3 @@
-"""
-BillaiAI (Small Language Model) from scratch
-============================================
-A minimal GPT-style transformer you can train on your own text.
-
-Requirements:
-    pip install torch
-
-Usage:
-    # Train on your own text file:
-    python billiai.py --train --file yourtext.txt
-
-    # Or train on the built-in sample text:
-    python billiai.py --train
-
-    # Generate text after training:
-    python billiai.py --generate --prompt "Once upon a time"
-"""
-
 import os
 import math
 import argparse
